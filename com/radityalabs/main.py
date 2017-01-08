@@ -13,4 +13,3 @@ def loadData(filename):
 filename = "data.csv"
 dataset = loadData(filename)
 print ('loaded data file {0} with {1} rows').format(filename, len(dataset))
-g
